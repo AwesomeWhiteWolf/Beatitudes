@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: #f4f4f4;
+	font-family: Arial, sans-serif;
+}
+
+.nav {
+	position: sticky;
+	z-index: 1;
+	top: 0;
+	width: 100%;
+}
